@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Group_425" data-name="Group 425" transform="translate(-1088 -3555)">
+    <g id="Rectangle_128" data-name="Rectangle 128" transform="translate(1088 3555)" fill="#f7eceb" stroke="#e6dbda" stroke-width="1">
+      <rect width="96" height="96" rx="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="95" height="95" rx="47.5" fill="none"/>
+    </g>
+    <path id="Home_icon" data-name="Home icon" d="M21.2,43.8V29.4h9.6V43.8h12V24.6H50L26,3,2,24.6H9.2V43.8Z" transform="translate(1111.333 3578)" fill="#ebd0ce"/>
+  </g>
+</svg>

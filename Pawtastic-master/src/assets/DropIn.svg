@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Group_424" data-name="Group 424" transform="translate(-672 -3555)">
+    <g id="Rectangle_128" data-name="Rectangle 128" transform="translate(672 3555)" fill="#f7eceb" stroke="#e6dbda" stroke-width="1">
+      <rect width="96" height="96" rx="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="95" height="95" rx="47.5" fill="none"/>
+    </g>
+    <path id="Wave_icon" data-name="Wave icon" d="M41,10V36.364a7.294,7.294,0,0,1-7.273,7.273H20.455a7.26,7.26,0,0,1-5.182-2.164L1,26.964s2.291-2.236,2.364-2.273A2.154,2.154,0,0,1,4.8,24.164a2.221,2.221,0,0,1,1.091.291c.073.018,7.836,4.473,7.836,4.473V7.273a2.727,2.727,0,0,1,5.455,0V20H21V2.727a2.727,2.727,0,1,1,5.455,0V20h1.818V4.545a2.727,2.727,0,1,1,5.455,0V20h1.818V10A2.727,2.727,0,0,1,41,10Z" transform="matrix(0.643, 0.766, -0.766, 0.643, 722.187, 3571.714)" fill="#ebd0ce"/>
+  </g>
+</svg>

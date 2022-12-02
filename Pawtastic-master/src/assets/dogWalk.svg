@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Group_423" data-name="Group 423" transform="translate(-256 -3555)">
+    <g id="Rectangle_128" data-name="Rectangle 128" transform="translate(256 3555)" fill="#f7eceb" stroke="#e6dbda" stroke-width="1">
+      <rect width="96" height="96" rx="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="95" height="95" rx="47.5" fill="none"/>
+    </g>
+    <path id="Flower_icon" data-name="Flower icon" d="M20,42.667a18,18,0,0,0,18-18A18,18,0,0,0,20,42.667ZM7.2,19.167a5.005,5.005,0,0,0,7.84,4.12l-.04.38a5,5,0,1,0,10,0l-.04-.38a4.929,4.929,0,0,0,2.84.88,4.988,4.988,0,0,0,2.14-9.5,4.993,4.993,0,1,0-4.98-8.62l.04-.38a5,5,0,0,0-10,0l.04.38a4.929,4.929,0,0,0-2.84-.88,4.988,4.988,0,0,0-2.14,9.5A4.982,4.982,0,0,0,7.2,19.167ZM20,9.667a5,5,0,1,1-5,5A5,5,0,0,1,20,9.667Zm-18,15a18,18,0,0,0,18,18A18,18,0,0,0,2,24.667Z" transform="translate(283.83 3582.333)" fill="#ebd0ce"/>
+  </g>
+</svg>

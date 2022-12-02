@@ -1,0 +1,47 @@
+.right {
+  text-align: right;
+  margin-top: -25rem;
+  margin-right: 6rem;
+  font-size: larger;
+}
+.center {
+  justify-content: center;
+}
+
+.btn {
+  border-radius: 2rem;
+
+  /* padding: 1rem 2rem 1rem 2rem; */
+  border: 2px solid white;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.back {
+  margin-top: -12rem;
+  z-index: -105;
+  position: relative;
+}
+
+.DogImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.front {
+  z-index: 120;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 10px;
+  row-gap: 2em;
+}
+.block {
+  margin-left: 2em;
+  margin-right: 4em;
+  margin-top: 6em;
+}

@@ -1,0 +1,46 @@
+.wrapper-dash {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 100px;
+ 
+}
+.leftpane{
+  
+   grid-column: 0.5/0.6;
+grid-row: 1/8;
+
+  background-color: #545871;
+  text-align: center;
+
+  padding-top: 50px;
+  padding-left: 20px;
+  
+  
+}
+.middlepane{
+  grid-column: 2/3;
+grid-row: 1/ 8;
+margin-left: -1.5rem;
+  position: relative;
+  float: left;
+  background-color: #636780;
+  border-collapse: collapse;
+  text-align:center;
+  padding-top:50px;
+  padding-left:40px;
+ 
+}
+.rightpane{
+  grid-column:3/4;
+  grid-row:1/8;
+  position: relative;
+  float: right;
+  background-color: #F7ECEB;
+  color:#9597A6;
+  border-collapse: collapse;
+  padding-left: 10px;
+ 
+  padding-top:50px;
+  text-align: center;
+  
+}
