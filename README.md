@@ -1,14 +1,14 @@
-#Database
+##Database
 The database used for this website is MongoDB
-#Front-End
+##Front-End
 The frontend is built using react
-#Screenshot
-#Features
+##Screenshot
+##Features
 User authentication
 Book Services
 Pay for the servce integrated with razorpay
 View Profile details
-#Authors
+##Authors
 Saksham Raina
 Aayush Durgule
 
