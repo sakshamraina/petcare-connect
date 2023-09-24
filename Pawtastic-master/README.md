@@ -1,4 +1,4 @@
-## Pawtastic 
+## PetCare Connect
 
 This is a Web App which provides Services for your pets created with **MERN** Stack
 
